@@ -1,0 +1,1 @@
+Programa de código fonte aberto, servindo apenas para avaliação do teste para a vaga de trainee no programa Bestminds da Everymind.
